@@ -1,6 +1,7 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 ### Date: 
-
+### Name: H.Berjin Shabeck
+### Reg No:212222240018
 
 ### AIM:
 To Illustrates how to perform time series analysis and decomposition on the student study hours marks data set.
